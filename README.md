@@ -1,4 +1,4 @@
-# ILRec# ILRec
+# ILRec
 The official implementation of ILRec.
 The implementation of ILRec is based on PyTorch and RecBole.
 
